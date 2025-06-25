@@ -61,7 +61,6 @@ export default function OnboardPage() {
       setSubmitted(true);
       // Simulate API call
       setTimeout(() => {
-        // eslint-disable-next-line no-console
         console.log("Artist submitted:", form);
         setSubmitted(false);
         setForm({ name: "", bio: "", categories: [], languages: [], fee: "", location: "", image: null });

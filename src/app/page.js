@@ -11,7 +11,7 @@ export default function Home() {
             <span className="font-bold text-[#ffb800]">Artistly</span> is your go-to platform for booking the best performing artists for any event. Discover Singers, Dancers, DJs, Speakers, and more — all in one place!
           </p>
           <blockquote className="border-l-4 border-[#ffb800] pl-4 italic text-[#ff2d7a] bg-[#fff0e1] py-2 rounded">
-            "Bringing talent and events together, one performance at a time."
+            &ldquo;Bringing talent and events together, one performance at a time.&rdquo;
           </blockquote>
           <a href="/artists" className="inline-block w-max px-8 py-3 bg-[#ff2d7a] text-white rounded-lg font-bold shadow hover:bg-[#ff4f9a] transition">Explore Artists</a>
         </div>
