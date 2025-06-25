@@ -1,4 +1,4 @@
-# Artistly.com Frontend Demo
+# Artistly
 
 A fictional platform for booking Performing Artists.
 
@@ -6,7 +6,7 @@ A fictional platform for booking Performing Artists.
 - React + Next.js (App Router)
 - Tailwind CSS
 - shadcn/ui (component library)
-- No TypeScript (JavaScript only)
+- JavaScript only
 
 ## Getting Started
 
